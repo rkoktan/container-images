@@ -1,2 +1,2 @@
 FROM registry.suse.com/bci/bci-base:15.7
-RUN zypper -n install libopenssl
+RUN zypper -n install libopenssl10
